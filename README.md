@@ -42,4 +42,4 @@ I leverage AI as a productivity and learning tool throughout the data analysis p
 
 ### 📫 Contact
 
-LinkedIn:
+LinkedIn: https://www.linkedin.com/in/avinoam-lalo-79961442b/
