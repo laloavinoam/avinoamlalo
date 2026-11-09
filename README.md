@@ -2,9 +2,13 @@
 
 ### Data Analyst | SQL | Power BI | DAX | Excel | AI-Assisted Analytics
 
-I am a Data Analyst in training with a background in operations, financial reporting and business management.
+**Business-Oriented Data Analyst | Turning Data into Business Insights**
 
-Currently developing my skills in SQL, Power BI, DAX and Excel, with a focus on turning business data into insights that support better decision-making.
+Data Analyst in training with a strong foundation in business management, operations, and financial reporting.
+
+I combine real-world business experience with analytical skills in **SQL, Power BI, DAX, and Excel** to analyze data, identify trends, evaluate business performance, and uncover insights that drive smarter decisions.
+
+My focus is on connecting data analysis with real business challenges and transforming raw data into actionable insights that create value.
 
 ### 🛠️ Skills
 
@@ -19,31 +23,14 @@ Currently developing my skills in SQL, Power BI, DAX and Excel, with a focus on 
 
 ### 📊 Data Projects
 
-#### SQL Business Analysis
-Business analysis project using SQL to explore customers, orders, payments and profitability.
-
-**Focus:**  
-SQL Queries | JOINs | Aggregations | CTEs | Subqueries | Business Insights
+#### SQL Business Analysis 
+A SQL-based business analysis project focused on exploring and evaluating business performance across customers, orders, payments, and profitability. Using advanced SQL techniques, including JOINs, aggregations, CTEs, and subqueries, to uncover trends, analyze financial performance, identify business patterns, and transform raw data into meaningful insights that support data-driven decision-making.
 
 #### Power BI Sales Analysis
-Interactive dashboard focused on sales performance, profitability, customers and KPIs.
-
-**Focus:**  
-Power BI | DAX | Data Modeling | KPIs | Dashboards | Business Insights
+An interactive Power BI dashboards designed to analyze sales performance, profitability, customer behavior, and key business metrics. Leveraging DAX, data modeling, and data visualization techniques to track KPIs, identify performance trends, uncover business opportunities, and translate complex datasets into clear, actionable insights that support informed business decisions.
 
 ### 🤖 AI-Assisted Analytics
-
-I use AI as a productivity and learning tool throughout the data analysis process.
-
-I work with AI to:
-
-- Develop and improve SQL queries
-- Build and debug DAX measures
-- Explore different approaches to data analysis
-- Translate business questions into analytical solutions
-- Improve efficiency and problem-solving
-
-I validate AI-generated outputs, test the logic against the data, and make sure I understand the solution rather than relying on AI blindly.
+I leverage AI as a productivity and learning tool throughout the data analysis process, using it to develop and optimize SQL queries, build and troubleshoot DAX measures, explore analytical approaches, and translate complex business questions into practical data-driven solutions. By combining AI capabilities with independent critical thinking, I validate generated outputs, test analytical logic against real data, and ensure a thorough understanding of every solution. My approach is to use AI to enhance efficiency, strengthen problem-solving, and continuously expand my analytical capabilities.
 
 ### 🎯 Currently Learning
 
